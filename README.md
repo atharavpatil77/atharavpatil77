@@ -59,10 +59,11 @@
 <p>
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
+     <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952mofd3q193r58zys5hkakxx79yh7a5m1zmyntdcmv&ep=v1_gifs_search&rid=200w.gif&ct=g">
+</div>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </p>
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
-</div>
+   
 </p>
     
 <div align="left">
