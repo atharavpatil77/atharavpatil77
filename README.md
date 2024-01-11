@@ -1,6 +1,6 @@
 
 <h3 align="center">
-    <font color="blue">Tech Explorer 🚀 | Freshman Developer 👩🏻‍💻 | Coding Enthusiast 🌐</font>
+    <font color="blue">Tech Explorer 🚀 | Intrigued  Learner 👩🏻‍💻 | Coding Enthusiast 🌐</font>
 </h3>
 
 <div align="center">
