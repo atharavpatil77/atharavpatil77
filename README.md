@@ -1,8 +1,4 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Atharav+Patil 😇;+Welcome+to+my+Profile!💻" />
-
-
 <h3 align="center">
     <font color="blue">Tech Explorer 🚀 | Freshman Developer 👩🏻‍💻 | Coding Enthusiast 🌐</font>
 </h3>
@@ -95,7 +91,7 @@
 <div align="left">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atharavpatil77/atharavpatil77/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
