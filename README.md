@@ -14,10 +14,7 @@
 
 
 
-<div align="center">
-    <div align="center">
-  <img src="https://cmsv2-assets.apptegy.net/uploads/9373/file/1814671/7af7fb0e-91cc-4394-8ee8-ea2227d34a53.gif" height="300" width="80%">
-</div>
+
  <br>
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
