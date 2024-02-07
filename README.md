@@ -24,7 +24,7 @@
 
 <br>
    <h1>Get in Touch</h1>
-   <div align="center">
+   <div align="center"> 
     <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" width="30%">
 </div>
