@@ -108,7 +108,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/atharavpatil77”>
+  <a href="https://github.com/atharavpatil77”>    
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anusrimk&theme=radical" alt="Atharav Patil's GitHub Contribution"/>
   </a>
 </p>
