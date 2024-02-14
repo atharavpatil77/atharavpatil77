@@ -134,7 +134,7 @@
   <h2>Quote of the day!</h2>
  
 
-<div align="center">
+<div align="center">   
     
 </p>
 
