@@ -130,7 +130,7 @@
 </div>
 
 
-<div align="center">
+<div align="center">   
   <h2>Quote of the day!</h2>
  
 
