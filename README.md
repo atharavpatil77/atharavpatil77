@@ -62,7 +62,7 @@
       
 </p>
     
-<div align="left">
+<div align="left">  
   <h4>Languages:</h4> 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
