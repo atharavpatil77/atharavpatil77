@@ -28,7 +28,7 @@
     <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" width="30%">
 </div>
-   <br>
+   <br>  
    <br>
   <p>
      <a href=“https://www.linkedin.com/in/atharav-patil-b47681289/“ target="_blank">
