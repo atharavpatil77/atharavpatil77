@@ -131,7 +131,7 @@
 
 
 <div align="center">   
-  <h2>Quote of the day!</h2>
+  <h2>Quote of the day!</h2>   
  
 
 <div align="center">   
