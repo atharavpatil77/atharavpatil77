@@ -5,7 +5,7 @@
     <font color="blue">Tech Explorer 🚀 | Intrigued  Learner 👩🏻‍💻 | Coding Enthusiast 🌐</font>        
 </h3>              
        
-<div align="center"> 
+<div align="center">   
     <p><font color="blue">🧑🏻‍🎓 I'm passionate about Programming </font></p>    
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>               
     <p><font color="blue">🚀 Exploring the world of tech</font></p>       
