@@ -22,7 +22,7 @@
 <h2 align="center">Setting foot in the journey from dreams to reality!🎥🪐 Looking forward to introducting my passion towards Computer Science to the realm of software engineering🌍🚀 .</h2>
 <br>
 
-<br>
+<br>  
    <h1>Get in Touch</h1>
    <div align="center"> 
     <div align="center">
