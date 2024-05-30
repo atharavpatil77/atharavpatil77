@@ -18,7 +18,7 @@
  <br>
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+</div>   
 <h2 align="center">Setting foot in the journey from dreams to reality!🎥🪐 Looking forward to introducting my passion towards Computer Science to the realm of software engineering🌍🚀 .</h2>
 <br>
 
