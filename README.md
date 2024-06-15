@@ -3,7 +3,7 @@
 </h1>             
 <h3 align="center">                       
     <font color="blue">Tech Explorer 🚀 | Intrigued  Learner 👩🏻‍💻 | Coding Enthusiast 🌐</font>               
-</h3>                     
+</h3>                         
                                  
 <div align="center">                  
     <p><font color="blue">🧑🏻‍🎓 I'm passionate about Programming </font></p>      
