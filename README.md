@@ -50,7 +50,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <div align="left">
-  <h2>Skills & Languages:</h2>   
+  <h2>Skills & Languages:</h2>     
 <h4>IDEs:</h4>
 <p>
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
