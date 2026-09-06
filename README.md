@@ -19,44 +19,44 @@
 
 <img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB3YWM3ZXIxb2ZtcTNnZXE4bTg5NjcxdTg0YXdnZWU1empza2lobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 🎓 Computer Science undergraduate at **ITM Skills University** (2023–2027).
-- 💼 Hands-on experience in MERN stack, RESTful APIs, and cloud architecture.
-- 🏆 Engineered production features for a commercial fintech platform managing portfolio operations for a **₹6,000+ Cr enterprise**.
-- 📜 **AWS Certified Cloud Practitioner** Essentials (2025).
+- 🎓 Computer Science undergraduate at **ITM Skills University** (2023–2027)[cite: 2].
+- 💼 Hands-on experience in MERN stack, RESTful APIs, and cloud architecture[cite: 2].
+- 🏆 Engineered production features for a commercial fintech platform managing portfolio operations for a **₹6,000+ Cr enterprise**[cite: 2].
+- 📜 **AWS Certified Cloud Practitioner** Essentials (2025)[cite: 2].
 - 🌱 Currently expanding my expertise in System Architecture & DevOps.
-- 📫 **Email:** atharvapatil@email.com
+- 📫 **Email:** atharavpatil01@gmail.com
 
 ---
 
 # 💼 Professional Experience
 
 ## Software Engineering Intern — Rentree Labs Pvt. Ltd.
-*(July 2025 – Dec 2025)*
+*(July 2025 – Dec 2025)*[cite: 2]
 
-- Architected backend RESTful APIs using Node.js, PHP CodeIgniter, and MySQL for live ERP platforms (Skool24 & Student Portal).
-- Engineered frontend modules in Angular including bulk operations, dark mode, attendance tracking, and fee receipt generation.
-- Optimized database schemas and SQL queries to eliminate latency and maintain real-time sync.
+- Architected backend RESTful APIs using Node.js, PHP CodeIgniter, and MySQL for live ERP platforms (Skool24 & Student Portal)[cite: 2].
+- Engineered frontend modules in Angular including bulk operations, dark mode, attendance tracking, and fee receipt generation[cite: 2].
+- Optimized database schemas and SQL queries to eliminate latency and maintain real-time sync[cite: 2].
 
 ## Full Stack Development Intern — Neo Wealth
-*(July 2024 – Sept 2024)*
+*(July 2024 – Sept 2024)*[cite: 2]
 
-- Developed trading features including order placement workflows, bucket creation, and live position tracking for a Google Play Store app.
-- Implemented automated risk calculations and third-party vendor integrations, driving a 20% boost in user engagement.
+- Developed trading features including order placement workflows, bucket creation, and live position tracking for a Google Play Store app[cite: 2].
+- Implemented automated risk calculations and third-party vendor integrations, driving a 20% boost in user engagement[cite: 2].
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🚚 Porter App — Logistics Management Platform
-- Built an on-demand logistics system with dynamic route calculation and fleet analytics.
-- Integrated Firebase authentication with dual-OTP verification and real-time database delivery tracking.
+- Built an on-demand logistics system with dynamic route calculation and fleet analytics[cite: 2].
+- Integrated Firebase authentication with dual-OTP verification and real-time database delivery tracking[cite: 2].
 
 ### 🛒 Blinkit — Quick-Commerce Grocery Delivery
-- Engineered a responsive grocery delivery interface using React.js, Redux, and Tailwind CSS.
-- Implemented dynamic search indexing, central state management, and seamless checkout flows.
+- Engineered a responsive grocery delivery interface using React.js, Redux, and Tailwind CSS[cite: 2].
+- Implemented dynamic search indexing, central state management, and seamless checkout flows[cite: 2].
 
 ### 🌤️ Dynamic Weather Intelligence
-- Developed an asynchronous web app consuming OpenWeatherMap API for live multi-city weather metrics.
+- Developed an asynchronous web app consuming OpenWeatherMap API for live multi-city weather metrics[cite: 2].
 
 ---
 
@@ -89,7 +89,7 @@
 <a href="https://linkedin.com/in/atharav-patil-b47681289">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:atharvapatil@email.com">
+<a href="mailto:atharavpatil01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
