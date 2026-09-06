@@ -1,96 +1,133 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=atharavpatil77&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
 <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
-  <h1>Hi, I'm Atharva Patil 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+👋;+I'm+Atharva+Patil;+Full+Stack+Developer;+MERN+Stack+Specialist;+AWS+Cloud+Practitioner;+B.Tech+CSE+Student"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack;AWS+Cloud+Practitioner;B.Tech+CSE+Undergrad+(2023-2027);Building+Scalable+Web+%26+Cloud+Systems" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/atharav-patil-b47681289">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:atharvapatil@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/atharavpatil77">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 </div>
 
----
-
-### 🚀 About Me
-
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering at ITM Skills University (2023–2027).
-- 💼 **Experience:** Former Software Engineering Intern at **Rentree Labs** & Full Stack Intern at **Neo Wealth**.
-- 🛠️ **Core Focus:** MERN Stack, RESTful API Design, Microservices, and Cloud Deployment (AWS).
-- 🏆 **Achievement:** Engineered production features for a commercial fintech app managing portfolio operations for a ₹6,000+ Cr enterprise.
-- 📜 **Certification:** AWS Cloud Practitioner Essentials (2025).
+<h3 align="center">Full Stack Developer • MERN Stack • AWS Cloud Practitioner • CS Undergrad</h3>
+<p align="center">Building scalable web applications, RESTful APIs, cloud-backed systems, and modern user experiences.</p>
 
 ---
 
-### 💻 Tech Stack & Skills
+# 🚀 About Me
 
-**Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h8w/giphy.gif"/>
 
-**Frameworks & Web Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- [cite_start]🎓 Computer Science undergraduate at **ITM Skills University** (2023–2027)[cite: 6].
+- [cite_start]💼 Hands-on experience in MERN stack, RESTful APIs, and cloud architecture[cite: 4].
+- [cite_start]🏆 Engineered production features for a commercial fintech platform managing portfolio operations for a **₹6,000+ Cr enterprise**[cite: 6].
+- [cite_start]📜 **AWS Certified Cloud Practitioner** Essentials (2025)[cite: 6].
+- 🌱 Currently expanding my expertise in System Architecture & DevOps.
+- [cite_start]📫 **Email:** atharvapatil@email.com [cite: 3]
 
 ---
 
-### ⚙️ Work Experience & Highlights
+# 💼 Professional Experience
 
-- **Rentree Labs Pvt. Ltd.** | *Software Engineering Intern* (Jul 2025 – Dec 2025)[cite: 2]
-  - Architected backend RESTful APIs using Node.js, PHP CodeIgniter, and MySQL for live institutional ERP systems[cite: 2].
-  - Built front-end modules in Angular (dark mode, attendance tracking, automated receipts) and optimized database queries[cite: 2].
+## Software Engineering Intern — Rentree Labs Pvt. Ltd.
+[cite_start]*(July 2025 – Dec 2025)* [cite: 6]
 
-- **Neo Wealth** | *Full Stack Development Intern* (Jul 2024 – Sep 2024)[cite: 2]
-  - Built core trading features (order workflows, position tracking) for a live trading app on Google Play Store[cite: 2].
-  - Implemented risk calculation features leading to a 20% boost in post-launch user engagement[cite: 2].
+- [cite_start]Architected backend RESTful APIs using Node.js, PHP CodeIgniter, and MySQL for live ERP platforms (Skool24 & Student Portal)[cite: 6].
+- [cite_start]Engineered frontend modules in Angular including bulk operations, dark mode, attendance tracking, and fee receipt generation[cite: 6].
+- [cite_start]Optimized database schemas and SQL queries to eliminate latency and maintain real-time sync[cite: 6].
+
+## Full Stack Development Intern — Neo Wealth
+[cite_start]*(July 2024 – Sept 2024)* [cite: 6]
+
+- [cite_start]Developed trading features including order placement workflows, bucket creation, and live position tracking for a Google Play Store app[cite: 6].
+- [cite_start]Implemented automated risk calculations and third-party vendor integrations, driving a 20% boost in user engagement[cite: 6].
 
 ---
 
-### 🛠️ Featured Projects
+# 🚀 Featured Projects
 
-| Project | Tech Stack | Key Highlights |
-| :--- | :--- | :--- |
-| **Porter App** | React, Node.js, MongoDB, Firebase | On-demand logistics management platform with dynamic route calculation, dual-OTP auth, and fleet analytics[cite: 2]. |
-| **Blinkit Clone** | React, Redux, Tailwind CSS | Quick-commerce grocery delivery interface featuring dynamic search indexing and seamless checkout workflows[cite: 2]. |
-| **Weather App** | React.js, REST API | Asynchronous weather intelligence web app consuming OpenWeatherMap API for real-time forecasting[cite: 2]. |
+### 🚚 Porter App — Logistics Management Platform
+- [cite_start]Built an on-demand logistics system with dynamic route calculation and fleet analytics[cite: 6].
+- [cite_start]Integrated Firebase authentication with dual-OTP verification and real-time database delivery tracking[cite: 6].
+
+### 🛒 Blinkit — Quick-Commerce Grocery Delivery
+- [cite_start]Engineered a responsive grocery delivery interface using React.js, Redux, and Tailwind CSS[cite: 6].
+- [cite_start]Implemented dynamic search indexing, central state management, and seamless checkout flows[cite: 6].
+
+### 🌤️ Dynamic Weather Intelligence
+- [cite_start]Developed an asynchronous web app consuming OpenWeatherMap API for live multi-city weather metrics[cite: 6].
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,php,postgres"/>
+</p>
+
+## Frontend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,angular"/>
+</p>
+
+## Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,mysql,mongodb,firebase"/>
+</p>
+
+## Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma,linux,bash"/>
+</p>
+
+---
+
+# 🌐 Connect
+
+<a href="https://linkedin.com/in/atharav-patil-b47681289">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:atharvapatil@email.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atharavpatil77&show_icons=true&theme=react&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharavpatil77&layout=compact&theme=react&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharavpatil77&theme=react&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharavpatil77&theme=github_dark"/>
+</p>
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharavpatil77&theme=github-dark)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=atharavpatil77&theme=algolia&row=2&column=4"/>
+</p>
 
 ---
 
 <div align="center">
 
-  ### 📊 GitHub Stats & Strengths
+### 💡 *"Architect. Optimize. Deploy. Scale."*
 
-  <img src="https://github-readme-stats.vercel.app/api?username=atharavpatil77&show_icons=true&theme=tokyonight&hide_border=true" alt="Atharva's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharavpatil77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+  <a href="https://github.com/atharavpatil77">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  </a>
 
 </div>
