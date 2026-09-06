@@ -17,7 +17,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h8w/giphy.gif"/>
+<img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB3YWM3ZXIxb2ZtcTNnZXE4bTg5NjcxdTg0YXdnZWU1empza2lobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 - 🎓 Computer Science undergraduate at **ITM Skills University** (2023–2027).
 - 💼 Hands-on experience in MERN stack, RESTful APIs, and cloud architecture.
