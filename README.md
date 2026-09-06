@@ -19,44 +19,44 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h8w/giphy.gif"/>
 
-- [cite_start]🎓 Computer Science undergraduate at **ITM Skills University** (2023–2027)[cite: 6].
-- [cite_start]💼 Hands-on experience in MERN stack, RESTful APIs, and cloud architecture[cite: 4].
-- [cite_start]🏆 Engineered production features for a commercial fintech platform managing portfolio operations for a **₹6,000+ Cr enterprise**[cite: 6].
-- [cite_start]📜 **AWS Certified Cloud Practitioner** Essentials (2025)[cite: 6].
+- 🎓 Computer Science undergraduate at **ITM Skills University** (2023–2027).
+- 💼 Hands-on experience in MERN stack, RESTful APIs, and cloud architecture.
+- 🏆 Engineered production features for a commercial fintech platform managing portfolio operations for a **₹6,000+ Cr enterprise**.
+- 📜 **AWS Certified Cloud Practitioner** Essentials (2025).
 - 🌱 Currently expanding my expertise in System Architecture & DevOps.
-- [cite_start]📫 **Email:** atharvapatil@email.com [cite: 3]
+- 📫 **Email:** atharvapatil@email.com
 
 ---
 
 # 💼 Professional Experience
 
 ## Software Engineering Intern — Rentree Labs Pvt. Ltd.
-[cite_start]*(July 2025 – Dec 2025)* [cite: 6]
+*(July 2025 – Dec 2025)*
 
-- [cite_start]Architected backend RESTful APIs using Node.js, PHP CodeIgniter, and MySQL for live ERP platforms (Skool24 & Student Portal)[cite: 6].
-- [cite_start]Engineered frontend modules in Angular including bulk operations, dark mode, attendance tracking, and fee receipt generation[cite: 6].
-- [cite_start]Optimized database schemas and SQL queries to eliminate latency and maintain real-time sync[cite: 6].
+- Architected backend RESTful APIs using Node.js, PHP CodeIgniter, and MySQL for live ERP platforms (Skool24 & Student Portal).
+- Engineered frontend modules in Angular including bulk operations, dark mode, attendance tracking, and fee receipt generation.
+- Optimized database schemas and SQL queries to eliminate latency and maintain real-time sync.
 
 ## Full Stack Development Intern — Neo Wealth
-[cite_start]*(July 2024 – Sept 2024)* [cite: 6]
+*(July 2024 – Sept 2024)*
 
-- [cite_start]Developed trading features including order placement workflows, bucket creation, and live position tracking for a Google Play Store app[cite: 6].
-- [cite_start]Implemented automated risk calculations and third-party vendor integrations, driving a 20% boost in user engagement[cite: 6].
+- Developed trading features including order placement workflows, bucket creation, and live position tracking for a Google Play Store app.
+- Implemented automated risk calculations and third-party vendor integrations, driving a 20% boost in user engagement.
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🚚 Porter App — Logistics Management Platform
-- [cite_start]Built an on-demand logistics system with dynamic route calculation and fleet analytics[cite: 6].
-- [cite_start]Integrated Firebase authentication with dual-OTP verification and real-time database delivery tracking[cite: 6].
+- Built an on-demand logistics system with dynamic route calculation and fleet analytics.
+- Integrated Firebase authentication with dual-OTP verification and real-time database delivery tracking.
 
 ### 🛒 Blinkit — Quick-Commerce Grocery Delivery
-- [cite_start]Engineered a responsive grocery delivery interface using React.js, Redux, and Tailwind CSS[cite: 6].
-- [cite_start]Implemented dynamic search indexing, central state management, and seamless checkout flows[cite: 6].
+- Engineered a responsive grocery delivery interface using React.js, Redux, and Tailwind CSS.
+- Implemented dynamic search indexing, central state management, and seamless checkout flows.
 
 ### 🌤️ Dynamic Weather Intelligence
-- [cite_start]Developed an asynchronous web app consuming OpenWeatherMap API for live multi-city weather metrics[cite: 6].
+- Developed an asynchronous web app consuming OpenWeatherMap API for live multi-city weather metrics.
 
 ---
 
