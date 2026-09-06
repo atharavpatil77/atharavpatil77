@@ -1,146 +1,96 @@
- <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Atharav+Patil😇;+Welcome+to+my+Profile!💻" />   
-</h1>             
-<h3 align="center">                          
-    <font color="blue">Tech Explorer 🚀 | Intrigued  Learner 👩🏻‍💻 | Coding Enthusiast 🌐</font>                        
-</h3>                                 
-                                                          
-<div align="center">                                       
-    <p><font color="blue">🧑🏻‍🎓 I'm passionate about Programming </font></p>                                
-    <p><font color="blue">👨‍💻 Second-year B.Tech student at ITM Skills University</font></p>                                                                                            
-    <p><font color="blue">🚀 Exploring the world of tech</font></p>                                                  
-    <p><font color="blue">🌱 Currently Learning  DevOps </font></p>                                  
-</div>                           
-                          
-      
-                           
-              
- <br>
-    <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>   
-<h2 align="center">Setting foot in the journey from dreams to reality!🎥🪐 Looking forward to introducting my passion towards Computer Science to the realm of software engineering🌍🚀 .</h2>
-<br>
-
-<br>  
-   <h1>Get in Touch</h1>
-   <div align="center"> 
-    <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="200" width="30%">
-</div>
-   <br>  
-   <br>
-  <p>   
-     <a href=“https://www.linkedin.com/in/atharav-patil-b47681289/“ target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-    </a>
-     <a href="mailto:atharavpatil01@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-    </a>
-    <a href="https://www.instagram.com/atharvvpatilll/“ target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
-    </a>
-   
-  </p>
-</div>       
-<br>     
-<br>
-<div align="center">   
-    <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<div align="left">
-  <h2>Skills & Languages:</h2>     
-<h4>IDEs:</h4>
-<p>
-    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
-     <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952mofd3q193r58zys5hkakxx79yh7a5m1zmyntdcmv&ep=v1_gifs_search&rid=200w.gif&ct=g">     
-</div>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-</p>
-      
-</p>    
-    
-<div align="left">  
-  <h4>Languages:</h4> 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>    
-</p>
-  
-<h4>Version Control:</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-</p>
-<h4>No Code:</h4>
-<p>
- <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
-<img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
-</p>
-    <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<div align="left">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atharavpatil77/atharavpatil77/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 <div align="center">
-  <h2>GitHub Stats:</h2>
+
+  <h1>Hi, I'm Atharva Patil 👋</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack;AWS+Cloud+Practitioner;B.Tech+CSE+Undergrad+(2023-2027);Building+Scalable+Web+%26+Cloud+Systems" alt="Typing SVG" />
+  </a>
+
   <p align="center">
-  <a href="https://github.com/atharavpatil77”>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharavpatil77&theme=radical&border=7F3FBF&background=0D1117" alt="Atharav Patil's GitHub streak"/>
-  </a>
-</p>
+    <a href="https://linkedin.com/in/atharav-patil-b47681289">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:atharvapatil@email.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/atharavpatil77">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/atharavpatil77”>    
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anusrimk&theme=radical" alt="Atharav Patil's GitHub Contribution"/>
-  </a>
-</p>
-  
-<a> 
-  <a href="https://github.com/atharavpatil77”>
-    <img alt="Atharav Patil  Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atharavpatil77&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/anusrimk">
-    <img alt=“Atharav Patil Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=atharavpatil77&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-  <br/>
-</a>
-
-![Atharav Patil's Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharavpatil77&custom_title=Atharav%20Patil's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+---
 
-<div align="center">   
-  <h2>Quote of the day!</h2>   
- 
+### 🚀 About Me
 
-<div align="center">   
-    
-</p>
+- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering at ITM Skills University (2023–2027).
+- 💼 **Experience:** Former Software Engineering Intern at **Rentree Labs** & Full Stack Intern at **Neo Wealth**.
+- 🛠️ **Core Focus:** MERN Stack, RESTful API Design, Microservices, and Cloud Deployment (AWS).
+- 🏆 **Achievement:** Engineered production features for a commercial fintech app managing portfolio operations for a ₹6,000+ Cr enterprise.
+- 📜 **Certification:** AWS Cloud Practitioner Essentials (2025).
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
+---
 
- </div>
- <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### 💻 Tech Stack & Skills
+
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Web Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### ⚙️ Work Experience & Highlights
+
+- **Rentree Labs Pvt. Ltd.** | *Software Engineering Intern* (Jul 2025 – Dec 2025)[cite: 2]
+  - Architected backend RESTful APIs using Node.js, PHP CodeIgniter, and MySQL for live institutional ERP systems[cite: 2].
+  - Built front-end modules in Angular (dark mode, attendance tracking, automated receipts) and optimized database queries[cite: 2].
+
+- **Neo Wealth** | *Full Stack Development Intern* (Jul 2024 – Sep 2024)[cite: 2]
+  - Built core trading features (order workflows, position tracking) for a live trading app on Google Play Store[cite: 2].
+  - Implemented risk calculation features leading to a 20% boost in post-launch user engagement[cite: 2].
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **Porter App** | React, Node.js, MongoDB, Firebase | On-demand logistics management platform with dynamic route calculation, dual-OTP auth, and fleet analytics[cite: 2]. |
+| **Blinkit Clone** | React, Redux, Tailwind CSS | Quick-commerce grocery delivery interface featuring dynamic search indexing and seamless checkout workflows[cite: 2]. |
+| **Weather App** | React.js, REST API | Asynchronous weather intelligence web app consuming OpenWeatherMap API for real-time forecasting[cite: 2]. |
+
+---
+
+<div align="center">
+
+  ### 📊 GitHub Stats & Strengths
+
+  <img src="https://github-readme-stats.vercel.app/api?username=atharavpatil77&show_icons=true&theme=tokyonight&hide_border=true" alt="Atharva's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharavpatil77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
 </div>
