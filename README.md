@@ -119,7 +119,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharavpatil77&theme=github_dark"/>
 </p>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharavpatil77&theme=github-dark)
 
 ---
 
