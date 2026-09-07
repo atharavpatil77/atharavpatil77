@@ -10,7 +10,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 </div>
 
-<h3 align="center">Full Stack Developer • MERN Stack • AWS Cloud Practitioner • CS Undergrad</h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center">Building scalable web applications, RESTful APIs, cloud-backed systems, and modern user experiences.</p>
 
 ---
